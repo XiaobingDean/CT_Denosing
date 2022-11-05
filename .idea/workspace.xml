@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de7d181f-358a-43f3-a464-1ab6df6eff56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0000_AGE_0060_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0001_AGE_0069_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0002_AGE_0074_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0003_AGE_0075_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0004_AGE_0056_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0005_AGE_0048_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0006_AGE_0075_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0007_AGE_0061_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0008_AGE_0051_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0009_AGE_0048_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0010_AGE_0060_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0011_AGE_0061_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0012_AGE_0061_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0013_AGE_0060_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0014_AGE_0071_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0015_AGE_0061_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0016_AGE_0063_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0017_AGE_0060_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0018_AGE_0074_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0019_AGE_0070_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0020_AGE_0066_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0021_AGE_0067_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0022_AGE_0074_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0023_AGE_0061_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0024_AGE_0060_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0025_AGE_0074_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0026_AGE_0070_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0027_AGE_0064_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0028_AGE_0074_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0029_AGE_0078_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0030_AGE_0076_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0031_AGE_0039_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0032_AGE_0061_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0033_AGE_0071_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0034_AGE_0061_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0035_AGE_0059_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0036_AGE_0074_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0037_AGE_0074_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0038_AGE_0071_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0039_AGE_0074_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0040_AGE_0069_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0041_AGE_0045_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0042_AGE_0071_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0043_AGE_0069_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0044_AGE_0072_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0045_AGE_0074_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0046_AGE_0072_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0047_AGE_0069_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0048_AGE_0077_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0049_AGE_0061_CONTRAST_1_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0050_AGE_0074_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0051_AGE_0063_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0052_AGE_0072_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0053_AGE_0073_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0054_AGE_0082_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0055_AGE_0071_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0056_AGE_0083_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0057_AGE_0049_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0058_AGE_0082_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0059_AGE_0074_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0060_AGE_0080_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0061_AGE_0074_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0062_AGE_0067_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0063_AGE_0073_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0064_AGE_0058_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0065_AGE_0082_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0066_AGE_0082_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0067_AGE_0060_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0068_AGE_0072_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0069_AGE_0074_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0070_AGE_0074_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0071_AGE_0065_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0072_AGE_0060_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0073_AGE_0074_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0074_AGE_0074_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0075_AGE_0080_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0076_AGE_0068_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0077_AGE_0074_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0078_AGE_0066_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0079_AGE_0071_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0080_AGE_0070_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0081_AGE_0058_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0082_AGE_0047_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0083_AGE_0082_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0084_AGE_0067_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0085_AGE_0067_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0086_AGE_0073_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0087_AGE_0044_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0088_AGE_0067_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0089_AGE_0071_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0090_AGE_0067_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0091_AGE_0072_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0092_AGE_0072_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0093_AGE_0067_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0094_AGE_0052_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0095_AGE_0071_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0096_AGE_0083_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0097_AGE_0060_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0098_AGE_0061_CONTRAST_0_CT.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom_dir/ID_0099_AGE_0061_CONTRAST_0_CT.dcm" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2H98US9HgWDje7EA33AQFnu63go" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de7d181f-358a-43f3-a464-1ab6df6eff56" name="Default Changelist" comment="" />
+      <created>1667685956573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667685956573</updated>
+      <workItem from="1667685959653" duration="51000" />
+      <workItem from="1667686024037" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

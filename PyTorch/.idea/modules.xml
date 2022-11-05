@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../MID-DRAN-main/.idea/MID-DRAN-main.iml" filepath="$PROJECT_DIR$/../../MID-DRAN-main/.idea/MID-DRAN-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyTorch.iml" filepath="$PROJECT_DIR$/.idea/PyTorch.iml" />
+    </modules>
+  </component>
+</project>

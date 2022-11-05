@@ -1,0 +1,1 @@
+{"dataset_name": "pathmnist", "checkpointPath": "./weights/", "resultDir": "./modelOutput/", "logPath": "./logDir/", "modelName": "MID-DRAN", "dataSamples": null, "batchSize": 24, "barLen": "64", "interval": "100", "imageH": "32", "imageW": "32", "inputC": "3", "outputC": "3", "epoch": 5, "learningRate": "0.001", "adamBeta1": "0.5", "adamBeta2": "0.99"}
