@@ -1,4 +1,4 @@
-Using Diffusion Model and ADL to denoise CT scan
+Using Diffusion Model, ADL and Dynamic Attention to denoise medical image
 _______
 ## Citation
 
